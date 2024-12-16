@@ -1,11 +1,9 @@
-<<<<<<< HEAD
- Hola mundo, realmente a nadie nunca se le ocurrio una frase más 
+Hola mundo, realmente a nadie nunca se le ocurrio una frase más 
 iconica?
 HOLA MUN...
 un
 dos
 tres
-=======
 Cuando yo la vi
 supe que esa mujer era para mi
 perdoname, te lo tenia que decir 
@@ -13,4 +11,6 @@ tas dura
 dura
 dura
 dura
->>>>>>> ramanueva
+um
+dois
+treis
